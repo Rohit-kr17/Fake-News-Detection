@@ -11,6 +11,7 @@ fake.csv: Contains fake news articles.
 true.csv: Contains real news articles.
 manualtesting.csv: Contains a set of articles for manual testing of the model.
 The dataset is preprocessed and used to train and evaluate the machine learning model.
+You can download the dateset: https://drive.google.com/drive/folders/15-e2NeUYgasflv92i_9UtmlXWo8X-4sR?usp=sharing
 
 # Usage
 Place the fake.csv and true.csv files in the data directory.
